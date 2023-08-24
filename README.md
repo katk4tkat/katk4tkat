@@ -1,13 +1,13 @@
 <h1 align="center">👋 HELLO WORLD! My name is Kat</h1>
 <h3 align="center">I'm a web developer with several months in training projects performed in the Laboratoria bootcamp. Extensive experience in tourism and communication. Flexible and comfortable adapting to different situations in an Agile manner. Passionate about programming and constantly looking to learn new skills in that area.</h3>
 
-- 🔭 I’m currently working on [BQ API](https://github.com/katk4tkat/DEV006-md-links)
+- 🔭 I’m currently working on [BQ API Client](https://github.com/katk4tkat/DEV006-burger-queen-api-client)
 
-- 🌱 I’m currently learning **Node JS, Express, Mongo DB**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **on creating unique experiences through the development of software applications.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/katk4tkat](https://github.com/katk4tkat)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/katk4tkat?tab=repositories)
 
 - 📫 How to reach me **katk4tkat@gmail.com**
 
