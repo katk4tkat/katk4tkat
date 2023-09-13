@@ -1,7 +1,7 @@
 <h1 align="center">👋 HELLO WORLD! My name is Kat</h1>
 <h3 align="center">I'm a web developer with several months in training projects performed in the Laboratoria bootcamp. Extensive experience in tourism and communication. Flexible and comfortable adapting to different situations in an Agile manner. Passionate about programming and constantly looking to learn new skills in that area.</h3>
 
-- 🔭 I’m currently working on [BQ API Client](https://github.com/katk4tkat/DEV006-burger-queen-api-client)
+- 🔭 I’m currently working on [Encuentro Ciudadano (website)](https://github.com/katk4tkat/encuentro-ciudadano)
 
 - 🌱 I’m currently learning **React**
 
